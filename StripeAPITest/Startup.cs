@@ -8,7 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Stripe;
-using Stripe.Data;
+using StripeAPITest.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
